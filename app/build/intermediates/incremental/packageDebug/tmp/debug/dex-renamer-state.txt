@@ -1,0 +1,4 @@
+#Thu Aug 02 08:36:55 ICT 2018
+base.0=/Users/chukimmuoi/AndroidStudioProjects/Example4USB/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
